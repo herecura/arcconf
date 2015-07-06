@@ -1,7 +1,7 @@
 pkgname='arcconf'
 _buildver='21062'
 pkgver="1.06.$_buildver"
-pkgrel=1
+pkgrel=2
 pkgdesc='Adaptec ARCCONF command line interface utility'
 arch=('i686' 'x86_64')
 url=('http://adaptec.com/')

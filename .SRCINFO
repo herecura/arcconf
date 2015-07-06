@@ -1,7 +1,7 @@
 pkgbase = arcconf
 	pkgdesc = Adaptec ARCCONF command line interface utility
 	pkgver = 1.06.21062
-	pkgrel = 1
+	pkgrel = 2
 	url = http://adaptec.com/
 	arch = i686
 	arch = x86_64
